@@ -1,0 +1,12 @@
+com\vrdete\email\pojo\EmailStatus.class
+com\vrdete\email\constant\IResultCode.class
+com\vrdete\email\exception\Assert.class
+com\vrdete\email\util\MyAuthenticator.class
+com\vrdete\email\util\EmailUtil.class
+com\vrdete\email\configuration\EmailConfig.class
+com\vrdete\email\exception\BusinessException.class
+com\vrdete\email\exception\BusinessExceptionAssert.class
+com\vrdete\email\pojo\EmailResult.class
+com\vrdete\email\constant\ResultCode.class
+com\vrdete\email\configuration\SenderConfig.class
+com\vrdete\email\exception\BaseException.class

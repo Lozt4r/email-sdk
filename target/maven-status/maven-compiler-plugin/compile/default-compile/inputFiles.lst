@@ -1,0 +1,11 @@
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\constant\ResultCode.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\exception\Assert.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\exception\BusinessException.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\configuration\SenderConfig.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\pojo\EmailResult.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\configuration\EmailConfig.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\exception\BusinessExceptionAssert.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\pojo\EmailStatus.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\util\EmailUtil.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\constant\IResultCode.java
+E:\IdeaProject\sdk\email\src\main\java\com\vrdete\email\exception\BaseException.java
